@@ -1,6 +1,6 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
-Full Name: Kieran Alexander\n
+Full Name: Kieran Alexander
 CCID: kjalexan
 
 ## References and Resources
